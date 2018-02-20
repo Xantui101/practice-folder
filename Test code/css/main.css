@@ -1,0 +1,16 @@
+body{
+  background-color : red;
+  color: pink;
+}
+
+div{
+  background-color : white
+  color white;
+  margin : auto;
+  width : 80%;
+}
+
+h1{
+  padding : 50px;
+  letter-spacing : 5px;
+}
